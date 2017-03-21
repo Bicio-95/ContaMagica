@@ -1,5 +1,7 @@
 import java.math.BigDecimal;
 import java.util.*;
+import java.util.*;
+import java.util.*;
 public class ContaMagica {
 	
 	private String NomeCliente;
